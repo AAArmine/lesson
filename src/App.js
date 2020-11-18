@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <h1>my react</h1>
       <p>BlxxxxxCa</p>
+      <p>Soursic araj nor </p>
+     <h1>NEWWW</h1>
       <img src={img} alt='just an image'/>
     </div>
   );
